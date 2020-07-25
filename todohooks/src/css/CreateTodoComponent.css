@@ -1,0 +1,5 @@
+.todo_form_container{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-auto-rows: minmax(10px, auto);
+}
